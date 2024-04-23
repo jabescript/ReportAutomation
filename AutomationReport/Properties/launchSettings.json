@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "AutomationReport": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "DOTNET_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}
